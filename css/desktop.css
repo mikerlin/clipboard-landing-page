@@ -1,0 +1,121 @@
+.header_main-section img {
+    width: 7em;
+}
+
+.header_main-section .header_info h1 {
+    padding: 0;
+    font-size: 38px;
+}
+
+.header_main-section .header_info p {
+    font-size: 17px;
+    padding: 0;
+}
+
+.header_main-section .btns {
+    display: flex;
+    flex-direction: row;
+}
+
+.header_main-section .btns a {
+    padding: 15px 30px;
+}
+
+.main_sec-first .container_info-first h2 {
+    font-size: 30px;
+}
+
+.main_sec-first .container_info-first p {
+    font-size: 16px;
+}
+
+.main_sec-second {
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+}
+
+.container-secs {
+    display: flex; 
+    flex-direction: column;
+    gap: 55px;
+}
+
+.img_sec-second {
+    margin-left: -30px;
+} 
+
+.container_info {
+    text-align: start;
+}
+
+.container_info p {
+    padding: 0;
+    padding-right: 50px;
+}
+
+.main_sec-fourth .container_artics {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.main_sec-fifth {
+    padding-top: 80px;
+}
+
+.main_sec-fifth ul {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+
+.main_sec-sixth {
+    padding-top: 130px;
+}
+
+.main_sec-sixth h2 {
+    font-size: 30px;
+}
+
+.main_sec-sixth .btnss {
+    display: flex;
+    flex-direction: row;
+}
+
+.main_sec-sixth .btnss a {
+    padding: 15px 30px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    padding-left: 150px;
+}
+
+.img_footer {
+    width: 5%;
+    margin-bottom: 0;
+}
+
+.container_links {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: start;
+    margin: 0;
+}
+
+.container_links li a {
+    color: hsl(201, 11%, 66%);
+}
+
+.footer-icons {
+    width: auto;
+    display: flex;
+    margin: auto;
+    gap: 20px;
+    
+}
